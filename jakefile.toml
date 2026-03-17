@@ -1,0 +1,6 @@
+test = "pytest tests/"
+format = "ruff format ."
+lint = "ruff check --fix ."
+typecheck = "ty check src/better_result"
+format-check = "ruff format --check ."
+lint-check = "ruff check ."
