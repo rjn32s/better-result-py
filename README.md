@@ -95,3 +95,7 @@ result.expect("division must succeed")  # raises ExpectError("division must succ
 ## Requirements
 
 Python 3.10 or higher. No runtime dependencies.
+
+## Roadmap
+
+Find the full roadmap [here](ROADMAP.md)
